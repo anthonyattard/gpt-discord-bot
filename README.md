@@ -1,3 +1,11 @@
+# AAA
+
+Startup
+python3 -m venv my-project-env
+source my-project-env/bin/activate
+pip3 install -r requirements.txt
+python3 -m src.main
+
 # Please read!
 
 
